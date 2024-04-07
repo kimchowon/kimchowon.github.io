@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "chocho"
   avatar           : "/assets/images/profile_image_3.jpeg"
-  bio              : "From Journeyman to Master<br>개발자는 할게 너무 많아"
+  bio              : """
   location         : #nothing
   email            : #nothing
   links:
